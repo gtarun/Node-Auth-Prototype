@@ -1,7 +1,7 @@
 node_modules/
-#.monitor
+.monitor
 #config/config.js
-#config/imager.js
-#Makefile
-#sftp-config.json
-#syncAll
+config/imager.js
+Makefile
+sftp-config.json
+syncAll
