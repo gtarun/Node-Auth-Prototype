@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 NodeJS Passport Boilerplate
 ============
 
@@ -31,3 +32,7 @@ License
 ------------
 
 MIT
+=======
+Node-Auth-Prototype
+===================
+>>>>>>> d798c95a4cc10282a20f9bb8c776353799923c78
