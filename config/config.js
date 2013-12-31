@@ -12,9 +12,9 @@ module.exports = {
       name: 'Nodejs Passport Boilerplate Demo'
     },
     facebook: {
-      clientID: "332362696893520",
-      clientSecret: "c469c6e2282aaff72171279d1cecc8ad",
-      callbackURL: "http://localhost:3000/auth/facebook/callback"
+      clientID: "256455311179440",
+      clientSecret: "cd54e4d55dfcc40f583dd79b33d3bbcd",
+      callbackURL: "http://node.venturepact.com/auth/facebook/callback"
     },
     twitter: {
       clientID: "CONSUMER_KEY",
@@ -68,8 +68,8 @@ module.exports = {
       name: 'Nodejs Passport Boilerplate Demo'
     },
     facebook: {
-      clientID: "332362696893520",
-      clientSecret: "c469c6e2282aaff72171279d1cecc8ad",
+      clientID: "256455311179440",
+      clientSecret: "cd54e4d55dfcc40f583dd79b33d3bbcd",
       callbackURL: "http://node.venturepact.com/auth/facebook/callback"
     },
     twitter: {
