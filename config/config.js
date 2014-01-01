@@ -1,4 +1,3 @@
-
 var path = require('path')
   , rootPath = path.normalize(__dirname + '/..')
   , templatePath = path.normalize(__dirname + '/../app/mailer/templates');
@@ -12,8 +11,8 @@ module.exports = {
       name: 'Nodejs Passport Boilerplate Demo'
     },
     facebook: {
-      clientID: "256455311179440",
-      clientSecret: "cd54e4d55dfcc40f583dd79b33d3bbcd",
+      clientID: "APP_ID",
+      clientSecret: "APP_Secret",
       callbackURL: "http://node.venturepact.com/auth/facebook/callback"
     },
     twitter: {
@@ -68,9 +67,9 @@ module.exports = {
       name: 'Nodejs Passport Boilerplate Demo'
     },
     facebook: {
-      clientID: "256455311179440",
-      clientSecret: "cd54e4d55dfcc40f583dd79b33d3bbcd",
-      callbackURL: "http://node.venturepact.com/auth/facebook/callback"
+      clientID: "APP_ID",
+      clientSecret: "APP_SECRET",
+      callbackURL: "http://APP_URL/auth/facebook/callback"
     },
     twitter: {
       clientID: "CONSUMER_KEY",
